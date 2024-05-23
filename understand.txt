@@ -1,3 +1,0 @@
-Leap year
-Divisible by 4 but  not by 100
-Divisible by 4, 100 and 400
